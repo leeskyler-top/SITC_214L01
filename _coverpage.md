@@ -2,5 +2,4 @@
 
 > By 李天成
 
-![校徽](images/logo-pc.png)
 [首页](README.md)
