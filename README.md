@@ -7,7 +7,7 @@
 #### 班规
 
 - [基本纪律章](BasicPrinciples)
-- [教室纪律章](ClassRules)
+- [教室纪律章](ClassroomRules)
 - [宿舍纪律章](DormitoryRules)
 - [劳动纪律章](LaborDiscipline)
 
