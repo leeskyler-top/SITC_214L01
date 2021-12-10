@@ -1,6 +1,6 @@
 # 上海信息技术学校 214L01 班规 - 首页
 
-![校徽](images/logo-pc.png)
+![校徽](images/sitc_logo.gif)
 
 ## 快速引导
 
